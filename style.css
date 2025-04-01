@@ -1,0 +1,40 @@
+/* Styling the header using an ID selector */
+#main-header {
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 3px solid navy;
+  }
+  
+  /* Styling the paragraph using a class selector */
+  .content p {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 10px;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Styling the image using a class selector */
+  .styled-image {
+    display: block;
+    margin: 20px auto;
+    padding: 5px;
+    border: 2px solid #555;
+    max-width: 65%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  /* Styling the footer using a class selector */
+  .footer-text {
+    font-size: 16px;
+    text-align: center;
+    margin: 10px 0;
+    color: #777;
+  }
+  
